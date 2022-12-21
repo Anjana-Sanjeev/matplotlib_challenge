@@ -20,10 +20,12 @@
     
 * The correlation coefficient and r-squared value between mouse weight and average tumour volume for the Capomulin treatment was calculated and a linear regression model was plotted.
 
-# Conclusion
+# Observations
 
 * There is a positive correlation between the mouse weight and the average tumour volume for the mice treated with the drug Capomulin which indicates that as the weight of the mouse increases the tumour volume identified also increases.
 
 * The distribution of male and female mice considered for this study is almost equal and hence it can be said to be a fair comparison.
 
 * Only one outlier value could be found among the data set which indicates that the dataset provided is not contaminated.
+
+* The drug regimen Ketapril has a higher standard deviation tumour volume whoch indicates that the data for the specific drug is more spread out and deviate from the mean value.
