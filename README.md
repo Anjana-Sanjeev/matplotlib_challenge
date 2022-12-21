@@ -1,6 +1,6 @@
 # matplotlib_challenge
 
-* In this challenge, a folder was created named Pymaceuticals, which contains the main script for the jupyter notebook.
+* In this challenge, a folder was created named matplotlib_challenge, which contains the main script for the jupyter notebook.
 * The folder also contains a Resource folder which has the csv files used in the analysis.
 * The folder also contains a Images folder which has the images of the charts plotted during the study.
 
